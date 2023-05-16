@@ -1,0 +1,4 @@
+{
+    "foundry_out_directory": "artifacts",
+    "filter_paths": "(lib/|test/)"
+}

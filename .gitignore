@@ -1,6 +1,12 @@
 # Compiler files
+artifacts/
+.vscode
 cache/
 out/
+coverage/
+lib/
+lcov.info
+.DS_Store
 
 # Ignores development broadcast logs
 !/broadcast
